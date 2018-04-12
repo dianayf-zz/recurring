@@ -9,7 +9,7 @@ gem 'rails', '~> 5.1.1'
 gem 'sass-rails', '~> 5.0'
 gem 'jbuilder', '~> 2.5'
 gem 'pg', '~> 0.18'
-
+gem 'payu'
 group :development, :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
